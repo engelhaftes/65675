@@ -1,0 +1,8 @@
+﻿<Page x:Class="FastTrackLogistics.Views.IntegrationView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="IntegrationView">
+    <Grid>
+        <TextBlock Text="Модуль интеграции данных активен" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Foreground="#6A716F"/>
+    </Grid>
+</Page>
